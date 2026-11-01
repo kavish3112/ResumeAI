@@ -1,0 +1,6 @@
+{
+  "name": "ResumeAI",
+  "description": "AI Resume Analyzer & Career Coach providing resume scoring, skill strengths/weaknesses comparison, actionable improvements, company match recommendations, and salary estimation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
